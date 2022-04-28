@@ -1,2 +1,2 @@
-# Git and GitHub Intro
-## Git and GitHub are the bees knees!
+# Temperature Converter
+## Converts Celsius, Fahrenheit, and Kelvin between each other
